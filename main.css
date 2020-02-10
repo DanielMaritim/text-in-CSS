@@ -1,0 +1,16 @@
+p.one {
+	color:blue;
+	text-align:justify;
+	text-transform:capitalize;
+	text-indent:10px;
+}
+p.two {
+	color:#808080;
+	text-align:center;
+	text-transform:lowercase;
+}
+p.three {
+	color: rgb(255, 0, 0);
+	text-align:right;
+	text-transform:uppercase;
+}
