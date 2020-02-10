@@ -6,3 +6,7 @@ One can also change text alignment using the text alignment property,text can be
 Text decoration is used to put or remove text decoration on the text.It also helps remove underline from links.Text decoration has none.line-through,overline or underline values.It uses the:text-decoration property
 
 Text transformation is used to make small or uppercases in a text and can even capitalize the first letter of each word
+
+Text Indentation is used to indent text.The word indent is used to describe the distance, or number of blank spaces used to separate a paragraph from the left or right margins.Dont confuse this with text alignment.It uses the:text-indent prpoerty
+
+The letter-spacing property is used to specify the amount of specing inbetween the letters/characters
